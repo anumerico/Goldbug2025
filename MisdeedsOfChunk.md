@@ -1,4 +1,5 @@
 # Gold Bug 2025 Puzzle Writeup: Misdeeds of Chunk
+https://goldbug.cryptovillage.org/puzzles/2025/MisdeedsOfChunk/
 
 ## Puzzle Overview
 The *Misdeeds of Chunk* puzzle is a playful nod to the classic movie *The Goonies* (1985). Participants were presented with a series of clues referencing Chunk’s infamous confessions. Each misdeed had a skull marking a specific letter, which when extracted in order revealed the flag.
