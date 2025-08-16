@@ -19,7 +19,7 @@ Full script here: [https://sfy.ru/?script=goonies](https://sfy.ru/?script=goonie
 10. I said I saved OLD PEOPLE from a FIRE at a NURSING HOME
 11. I got KICKED out of SUMMER CAMP for pigging out at LUNCH
 12. I KNOCKED my SISTER down the STAIRS and BLAMED it on the DOG
-13. But for all my misdeeds, I BEFRIENDED SLOTH who SAVED THE DAY
+13. But for all my misdeeds, I BEFRIENDED SLOTH who SAVED the DAY
 
 ## Solution / Flag
 Extracting the letters marked by the skulls gives:
