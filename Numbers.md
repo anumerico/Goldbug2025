@@ -1,7 +1,7 @@
 # Goldbug 2025 – “Numbers” Puzzle Write-Up
 
 This puzzle was part of the Crypto & Privacy Village Goldbug Challenge (DEF CON 33, 2025). 
-It was titled **“Numbers.”**
+https://goldbug.cryptovillage.org/puzzles/2025/numbers.pdf
 
 **Step 1 – Goldbug Cipher**  
 The puzzle started with a block of symbols (†, ‡, *, etc.), straight out of Edgar Allan Poe’s *The Gold-Bug*, which uses a substitution cipher. Decoding with the standard Goldbug substitution alphabet gave:
