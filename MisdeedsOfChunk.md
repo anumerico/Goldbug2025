@@ -13,7 +13,7 @@ Full script here: [https://sfy.ru/?script=goonies](https://sfy.ru/?script=goonie
 4. I said MICHAEL JACKSON came to my HOUSE to use the BATHROOM
 5. I broke the PHOTO that ONE-EYED WILLY'S MAP was in
 6. I broke Mikey's statue of MICHELANGELO'S PENIS
-7. I said there were
+7. I said there were CREATURES that MULTIPLIED when they got WET
 8. I ate my WEIGHT in GODFATHER'S PIZZA
 9. I used my UNCLE MAX'S TOUPEE as a BEARD in my SCHOOL PLAY
 10. I said I saved OLD PEOPLE from a FIRE at a NURSING HOME
