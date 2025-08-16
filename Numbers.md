@@ -32,7 +32,7 @@ The "AND" joins digits rather than adding them:
 Condensed sequence: 32 13 3 22 13 6 15 5 1
 
 **Step 4 – From Numbers to Letters**  
-Using **page–line–word** again but now pulling **letters** (first letters of the words), the message emerged:
+Using **page–line–word** again on the book, the message emerged:
 
 T A K E M I N E B A C K
 
